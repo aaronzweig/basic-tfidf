@@ -8,6 +8,7 @@ If necessary, install the following:
 pip install --user numpy scipy
 pip install -U scikit-learn
 ```
+Now, download the repository, and place the corpus as separate .txt files in the same folder.  Name the document whose important phrases you care about as "script.txt"
 
 Then, in a terminal, enter the python environment and call:
 
